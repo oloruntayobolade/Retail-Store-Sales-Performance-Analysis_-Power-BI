@@ -14,7 +14,7 @@ The report features two complementary dashboard pages:
 ![Retail Store Summary Dashboard](https://github.com/oloruntayobolade/Retail-Store-Sales-Performance-Analysis_-Power-BI/blob/main/Overview%20KPI%20summary.png)
 ### 2. KPI Dashboard Overview
 
-![Retail Store KPI Dashboard Overview][(images/KPI-Overview.png]()
+![Retail Store KPI Dashboard Overview](https://github.com/oloruntayobolade/Retail-Store-Sales-Performance-Analysis_-Power-BI/blob/main/KPI%20Overview.png)
 
 This page provides an overview of sales performance, monthly order quantities, revenue trends, customer distribution, and manager-level revenue contributions.
 
