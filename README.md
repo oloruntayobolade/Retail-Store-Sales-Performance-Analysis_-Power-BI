@@ -57,21 +57,21 @@ The summary dashboard presents the following business metrics:
 
 | KPI | Dashboard Value |
 |---|---:|
-| Total Sales Revenue | 1.89M |
-| Total Cost | 323.09K |
-| Total Profit | 1.57M |
-| Average Sale | 968.32 |
-| Average Cost per item | 165.52 |
+| Total Sales Revenue | $1.89M |
+| Total Cost | $323.09K |
+| Total Profit | $1.57M |
+| Average Sale | $968.32 |
+| Average Cost per item | $165.52 |
 | Average Processing Time | 2 days |
 | Total Records / Count Displayed | 1,952 |
 
-*Figures are reproduced from the dashboard. The currency, definitions of the calculated measures, and the exact meaning of the 1,952 count should be confirmed against the underlying dataset and DAX measures.*
+*Figures are reproduced from the dashboard, and all monetary values are in US dollars ($). The definitions of the calculated measures and the exact meaning of the 1,952 count should be confirmed against the underlying dataset and DAX measures.*
 
 ## 🔍 Key Business Insights
 
-### 1. Total sales revenue reached approximately 1.89 million
+### 1. Total sales revenue reached approximately $1.89 million
 
-The dashboard reports total sales revenue of approximately **1.89 million**, providing a high-level view of the business's recorded sales activity.
+The dashboard reports total sales revenue of approximately **$1.89 million**, providing a high-level view of the business's recorded sales activity.
 
 This KPI serves as a starting point for evaluating sales performance across managers, regions, products, and customer segments.
 
@@ -81,10 +81,10 @@ The manager-level revenue table shows the following results:
 
 | Manager | Region | Sales Revenue |
 |---|---|---:|
-| Erin | East | 574,325.47 |
-| William | West | 525,854.04 |
-| Chris | Central | 439,268.15 |
-| Sam | South | 350,710.71 |
+| Erin | East | $574,325.47 |
+| William | West | $525,854.04 |
+| Chris | Central | $439,268.15 |
+| Sam | South | $350,710.71 |
 
 Erin recorded the highest sales revenue among the four displayed managers, followed by William.
 
@@ -128,16 +128,16 @@ The revenue chart displays the following monthly figures:
 
 | Month | Sales Revenue |
 |---|---:|
-| January | 269K |
-| February | 329K |
-| March | 269K |
-| April | 382K |
-| May | 299K |
-| June | 343K |
+| January | $269K |
+| February | $329K |
+| March | $269K |
+| April | $382K |
+| May | $299K |
+| June | $343K |
 
-April recorded the highest displayed monthly sales revenue at approximately **382K**, followed by June at 343K.
+April recorded the highest displayed monthly sales revenue at approximately **$382K**, followed by June at $343K.
 
-January and March both recorded approximately 269K, while revenue declined from April to May before recovering in June.
+January and March both recorded approximately $269K, while revenue declined from April to May before recovering in June.
 
 An important observation is that **May had the highest order quantity, but April had the highest sales revenue**. This illustrates why order volume and revenue should be analyzed separately: the number of items ordered does not, by itself, determine total sales value.
 
