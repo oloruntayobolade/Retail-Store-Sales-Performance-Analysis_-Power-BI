@@ -58,10 +58,10 @@ The summary dashboard presents the following business metrics:
 | KPI | Dashboard Value |
 |---|---:|
 | Total Sales Revenue | 1.89M |
-| Total Cost | 25.31K |
+| Total Cost | 323.09K |
 | Total Profit | 1.57M |
 | Average Sale | 968.32 |
-| Average Cost | 12.97 |
+| Average Cost per item | 165.52 |
 | Average Processing Time | 2 days |
 | Total Records / Count Displayed | 1,952 |
 
